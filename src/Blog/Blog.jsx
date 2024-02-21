@@ -1,9 +1,9 @@
 import React from 'react'
-
+import PageHeader from '../Component/PageHeader'
 const Blog = () => {
   return (
-    <div>Hosssm e</div> 
-  )
+    <PageHeader title="Our Blog Page" curPage="Blogs" />
+    )
 }
 
 export default Blog

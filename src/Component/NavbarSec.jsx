@@ -15,19 +15,19 @@ function NavbarSec() {
         <Navbar.Brand href="#">
           <img src={logo} width="50" height="50" class="d-inline-block align-top" alt="" />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="navbarScroll" />
-        <Navbar.Collapse id="navbarScroll">
+        <Navbar.Toggle aria-controls="navbarScroll"  />
+        <Navbar.Collapse id="navbarScroll" className="justify-content-end">
           <Nav
             className=" my-2 my-lg-0"
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
             <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/shop">Shop</Nav.Link>
-            <Nav.Link href="/blog">Blog</Nav.Link>
-            <Nav.Link href="/contact">Contact</Nav.Link>
-            <Button href="/signup" className="m-3"  variant="primary">Create Account</Button>
-            <Button href="/login" className="m-3" variant="light">Login</Button>
+            <Nav.Link href="#shop">Shop</Nav.Link>
+            <Nav.Link href="#blog">Blog</Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
+            <Button href="/signup"   variant="primary">Create Account</Button>
+            <Button href="/login"  variant="light">Login</Button>
           </Nav>
         </Navbar.Collapse>
       </Container>

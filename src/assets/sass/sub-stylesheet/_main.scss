@@ -1859,6 +1859,16 @@
                             }
                         }
                     }
+                    &:nth(odd){
+                        top: random(300)px;
+                        left: random(300)px;
+                        .client-thumb {
+                            &::after, &::before {
+                                background: #7256df;
+                            }
+                        }
+
+                    }
                     &:nth-child(1) {
                         top: 70px;
                         left: 20%;
@@ -2605,6 +2615,7 @@
 						&.view-modal {
     						cursor: pointer;
 						}
+
 					}
 				}
 			}

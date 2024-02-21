@@ -1,17 +1,27 @@
 import { Outlet } from 'react-router-dom'
 import NavbarSec from "./Component/NavbarSec.jsx"
-import { Container } from 'react-bootstrap'
+import Footer from "./Component/Footer.jsx"
+
+
+
+
+
 import 'bootstrap/dist/css/bootstrap.css'
+import  './assets/css/style.min.css'
 import './App.css'
+
+
+
+
 function App() {
   return (
     <>
       <NavbarSec />
-      <Container>
-       <Outlet />
+      <div className="min-vh-100">
 
-   cc
-      </Container>
+       <Outlet />
+      </div>
+       <Footer/>
     </>
   )
 }
