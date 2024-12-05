@@ -1,4 +1,4 @@
-# e-commerce - MERN
+# E-commerce - MERN
 Full-Stack commerce with MERN Full-stack
 
 ## 🖥️ Tech Stack
