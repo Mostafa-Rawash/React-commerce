@@ -36,7 +36,7 @@ Full-Stack commerce with MERN Full-stack
 - Review Products: 🌟 Users can review products.
 
 ## e-commerce shots   🙈 :
-![Capture](../React-commerce/src/assets/images/shots/search.png)
+![Capture](https://github.com/Mostafa-Rawash/React-commerce/blob/main/src/assets/images/shots/search.png?raw=true)
 
 <table>
   <tr>
