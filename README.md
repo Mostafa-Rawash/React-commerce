@@ -40,9 +40,9 @@ Full-Stack commerce with MERN Full-stack
 
 <table>
   <tr>
-    <td><img src="[../React-commerce/src/assets/images/shots/cat.png](https://github.com/Mostafa-Rawash/React-commerce/blob/main/src/assets/images/shots/cat.png?raw=true)" alt="mockup" /></td>
-    <td><img src="[../React-commerce/src/assets/images/shots/products.png](https://github.com/Mostafa-Rawash/React-commerce/blob/main/src/assets/images/shots/products.png?raw=true)" alt="mockup" /></td>
-    <td><img src="[../React-commerce/src/assets/images/shots/customers.png](https://github.com/Mostafa-Rawash/React-commerce/blob/main/src/assets/images/shots/customers.png?raw=true)" alt="mockup" /></td>
+    <td><img src="https://github.com/Mostafa-Rawash/React-commerce/blob/main/src/assets/images/shots/cat.png?raw=true" alt="mockup" /></td>
+    <td><img src="https://github.com/Mostafa-Rawash/React-commerce/blob/main/src/assets/images/shots/products.png?raw=true" alt="mockup" /></td>
+    <td><img src="https://github.com/Mostafa-Rawash/React-commerce/blob/main/src/assets/images/shots/customers.png?raw=true" alt="mockup" /></td>
   </tr>
   <tr>
 </table>
